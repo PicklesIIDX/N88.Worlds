@@ -6,3 +6,4 @@ riderModule.iml
 *.nupkg
 *.user
 .idea/
+*.DS_Store
