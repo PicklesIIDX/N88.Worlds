@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <LangVersion>latest</LangVersion>
         <PackageId>N88.Worlds.Core</PackageId>
-        <Version>4.0.0</Version>
+        <Version>4.0.1</Version>
         <Company>N88</Company>
         <Description>Barebones ECS entity manager.</Description>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
